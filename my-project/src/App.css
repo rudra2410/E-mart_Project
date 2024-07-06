@@ -1,0 +1,50 @@
+
+.box:hover{
+  .pop{
+      display: block;
+
+  }
+}
+
+.pop1{
+  display: none;
+}
+
+.box1:hover{
+  .pop{
+      display: block;
+      translate: translateY(40px);
+      transition-duration: 300ms;
+  }
+}
+
+.main-overlay {
+  height: 250px;
+  width: 450px;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.main-overlay img {
+  position: absolute;
+  transition: all 1s ease-in-out;
+}
+
+.main-overlay:hover .overlay {
+  height: inherit;
+  width: inherit;
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 1s ease-in-out;
+
+}
+
+
+.main-overlay:hover img {
+  transform: scale(1.2);
+  transition: all 1s ease-in-out;
+}

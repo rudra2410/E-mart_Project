@@ -1,0 +1,77 @@
+ [
+      {
+          "id" : 1,
+          "name" : "Bird's Nest Leslie",
+          "price" : "$45.00",
+          "d_price" : 30.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Birds-Nest-Leslie-Fern.webp"
+      },
+      {
+          "id" : 2,
+          "name" : "Monstera Plant",
+          "price" : "$60.00",
+          "d_price" : 48.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Monstera.webp"
+      },
+      {
+          "id" : 3,
+          "name" : "Haworthia",
+          "price" : "$87.00",
+          "d_price" : 70.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Haworthia.webp"
+      },
+      {
+          "id" : 4,
+          "name" : "Monstera Plant",
+          "d_price" : 60.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Monstera.webp"
+      },
+      {
+          "id" : 5,
+          "name" : "Bird's Nest Fern",
+          "price" : "$68.00",
+          "d_price" : 54.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Birds-nest-fern-01.webp"
+      },
+      {
+          "id" : 6,
+          "name" : "Peperomia Plans",
+          "price":"$45.00",
+          "d_price" : 57.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Rubber-Plant.webp"
+      },
+      {
+          "id" : 7,
+          "name" : "Peace Lily",
+          "price" : "$72.00",
+          "d_price" : 64.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/peace-lily-02.webp"
+      },
+      {
+          "id" : 8,
+          "name" : "Succulent Plant",
+          "d_price" : 67.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Succulent-Plant.webp"
+      },
+      {
+          "id" : 9,
+          "name" : "Barrel Cactus",
+          "d_price" : 67.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/barrel-cactus-01.webp"
+      },
+      {
+          "id" : 10,
+          "name" : "Snake Plant",
+          "price" : "$54.00",
+          "d_price" : 40.00,
+          "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Philodendron-Birkin-Plant.webp"
+      },
+      {
+        "id" : 11,
+        "name" : "Snake Plant",
+        "price" : "$54.00",
+        "d_price" : 40.00,
+        "img" : "https://emart.wpthemedemos.com/plant-garden/wp-content/uploads/sites/10/2022/12/Snake-Plant.webp"
+    }
+      
+  ]

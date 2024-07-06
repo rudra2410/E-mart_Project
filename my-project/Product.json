@@ -1,0 +1,136 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2023/01/Casual-T-shirts-beige.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2023/01/Casual-T-shirts-beige-hover.webp",
+            "name" : "Casual t-shirts",
+            "Showprice" : "$70.00 - $110.00",
+            "price":110
+        },
+        {
+            "id":2,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/jute-bag-1.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Jute-Bag-hover.webp",
+            "name" : "Jute-bag",
+            "Showprice":"$150",
+            "price":150
+        }, 
+        
+        {
+            "id":3,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Round-neck-slevless.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Sleevless-T-shirt-hover.webp",
+            "name" : "Sleevless t-shirt",
+            "Showprice" : "$94.00",
+            "price":94
+        },   
+        {
+            "id": 4,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/sneakers.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/sneakers-hover.webp",
+            "name" : "Sneaker",
+            "Showprice" : "$250",
+            "price":250
+        },
+           
+        {
+            "id": 5,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Violate-Jacket.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Violate-Jacket-hover.webp",
+            "name" : "Violate-jacket",
+            "Showprice" : "$100.00 - $170.00",
+            "price":170
+        },
+           
+        {
+            "id": 6,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2023/01/grey-hill.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2023/01/grey-hill-hover.webp",
+            "name" : "Women grey-hill",
+            "Showprice" : "$160",
+            "price":160
+        },
+           
+        {
+            "id": 7,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/sunglass.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/sunglass-hover.webp",
+            "name" : "Square sunglass",
+            "Showprice" : "$120.00",
+            "price":120
+        },
+           
+        {
+            "id": 8,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Check-scarf.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Check-scarf-hover.webp",
+            "name" : "Check-scarf",
+            "Showprice" : "$80.00",
+            "price":80
+        },
+           
+        {
+            "id": 9,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/tote-bag-02.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/tote-bag.webp",
+            "name" : "Grey tote bag",
+            "Showprice" : "$150.00",
+            "price":150
+        },
+           
+        {
+            "id": 10,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Grey-Formal-Shirt.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Grey-Formal-Shirt-hover.webp",
+            "name" : "Grey -formal shirt",
+            "Showprice" : "$75.00 - $85.00",
+            "price":85
+        },
+           
+        {
+            "id": 11,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/sports-wear.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/sports-t-shirt.webp",
+            "name" : "Sports-wear",
+            "Showprice" : "$98.00",
+            "price":98
+        },
+           
+        {
+            "id": 12,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Leather-Handbag.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/HandBag-hover02.webp",
+            "name" : "Handbag",
+            "Showprice" : "$190",
+            "price":190
+        },
+           
+        {
+            "id": 13,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/cotton-bucket-hat.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/cotton-bucket-hat-hover.webp",
+            "name" : "Round hat",
+            "Showprice" : "$54.00   ",
+            "price":54
+        },
+           
+        {
+            "id": 14,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/flip-flop-slider-023.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2022/12/Rust-Colour-Sliders-hover.webp",
+            "name" : "Rust colour sliders",
+            "Showprice" : "$230.00",
+            "price":230
+        },
+           
+        {
+            "id": 15,
+            "img1":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2023/01/sports-slacks.webp",
+            "img2":"https://emart.wpthemedemos.com/fashion-hub/wp-content/uploads/sites/4/2023/01/sports-slacks-hover.webp",
+            "name" : "Sports-slacks",
+            "Showprice" : "$70.00",
+            "price":70
+        }
+    ]
+}
